@@ -461,16 +461,3 @@ df.head()
 
 ---
 
-## Summary
-
-This notebook is a beginner-level practice file for the following topics:
-
-- Loading CSV data with Pandas
-- Checking the structure and data types of a DataFrame
-- Identifying missing values and counting values by column
-- Using `describe()` to check basic summary statistics
-- Creating scatter plots and dotplots with Plotly
-- Comparing population and sample means with NumPy
-- Comparing basic statistics of uniform and normal distributions
-
-When uploading this project to GitHub, it is recommended to include this Markdown file, the original `.ipynb` notebook, and any required CSV files in the same repository.
