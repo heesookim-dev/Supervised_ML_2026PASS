@@ -5,20 +5,6 @@ It covers basic practice with loading CSV data using Pandas, calculating samplin
 
 ---
 
-## Table of Contents
-
-1. [Libraries Used](#libraries-used)
-2. [Loading the Possum Dataset](#loading-the-possum-dataset)
-3. [Basic Exploration of the Possum Dataset](#basic-exploration-of-the-possum-dataset)
-4. [Visualizing the Possum Dataset](#visualizing-the-possum-dataset)
-5. [Loading the Loan50 Dataset](#loading-the-loan50-dataset)
-6. [Basic Exploration of the Loan50 Dataset](#basic-exploration-of-the-loan50-dataset)
-7. [Visualizing the Loan50 Dataset](#visualizing-the-loan50-dataset)
-8. [Dotplot Practice](#dotplot-practice)
-9. [Comparing Population and Sample Means](#comparing-population-and-sample-means)
-10. [Basic Statistics Comparison: Uniform vs Normal Distribution](#basic-statistics-comparison-uniform-vs-normal-distribution)
-11. [Important Notes for Running the Notebook](#important-notes-for-running-the-notebook)
-12. [Summary](#summary)
 
 ---
 
