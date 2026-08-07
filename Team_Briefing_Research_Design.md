@@ -1,5 +1,5 @@
 # Team Briefing — Choosing Our Research Design
-### CO₂ Emissions Project | Prepared by Heesoo Kim (Team Lead)
+### CO₂ Emissions Project | Prepared by Heesoo Kim 
 
 ---
 
