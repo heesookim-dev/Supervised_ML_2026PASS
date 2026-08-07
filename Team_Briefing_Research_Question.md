@@ -1,5 +1,5 @@
 # Team Briefing — Choosing Our Research Question
-### CO₂ Emissions Project | Prepared by Heesoo Kim (Team Lead)
+### CO₂ Emissions Project | Prepared by Heesoo Kim
 
 **Purpose of this document:** Before we divide up the work, we need to agree on *what question we are actually
 asking*. This briefing explains why our initial instinct — "which variable has the highest R?" — is a weak research
