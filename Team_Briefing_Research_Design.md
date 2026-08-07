@@ -128,7 +128,7 @@ Every Durbin–Watson stays near 2.0, so the independence assumption holds in ev
 | **4** | **Diagnostics Lead** | Residual plot, Q-Q plot, Cook's Distance, leverage, VIF, robustness check after removing influential countries, test-set metrics | §8, §9, §11, §13 |
 | **5** | **Interpretation & Policy Lead** | The per-capita reframing, the three importance measures, the coefficient identity discovery, limitations, and the decoupling extension (Design C) | §12, §14, §15 |
 
-**Team Lead (Heesoo):** research design decision, integration, narrative arc, final Q&A preparation.
+
 
 **Suggested integration checkpoint:** Members 1–2 must finish before 3–4 can begin, since modeling depends on the cleaned and log-transformed dataset. Member 5 can draft interpretation in parallel using preliminary results.
 
